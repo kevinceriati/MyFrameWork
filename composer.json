@@ -10,7 +10,9 @@
     ],
 
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "duncan3dc/blade": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Core\\": "core",
